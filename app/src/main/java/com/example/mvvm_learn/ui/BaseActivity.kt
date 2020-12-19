@@ -1,4 +1,4 @@
-package com.example.mvvm_learn
+package com.example.mvvm_learn.ui
 
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
