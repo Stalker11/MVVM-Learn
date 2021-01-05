@@ -4,6 +4,6 @@ import com.example.mvvm_learn.ApiUser
 import retrofit2.http.GET
 
 interface ApiRequests {
-    @GET("/[[[[users")
+    @GET("/users")
     suspend fun getUsers():List<ApiUser>
 }
